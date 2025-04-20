@@ -27,7 +27,7 @@ By identifying high-risk orders early, platforms can take action to reduce cance
 
 ### Evaluation Metrics:
 - Accuracy
-- Precision, Recall, F1-score
+- Precision, Recall
 - Confusion Matrix
 
 ## Conclusion & What We Learned
