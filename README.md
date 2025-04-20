@@ -54,7 +54,7 @@ By identifying high-risk orders early, platforms can take action to reduce cance
 
 ## Contributors
 - @ani-i25 Gao Anni (N2402461C): Data cleaning, EDA, GitHub setup
-- @Chenyu-Alex Liu Chenyu (N2402421L): ML modeling, performance tuning, insights
+- @Chenyu-Alex Liu Chenyu (N2402421L): ML modeling, performance tuning, insights, video editing
 
 ## References
 - Kaggle Dataset: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data/data
