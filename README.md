@@ -29,12 +29,12 @@ By identifying high-risk orders early, platforms can take action to reduce cance
 ## Machine Learning Models
 ### Models Used:
 - Logistic Regression (Baseline)
-- Random Forest Classifier
+- Random Forest & Random Forest(Balanced)
 - XGBoost
 
 ### Evaluation Metrics:
 - Accuracy
-- Precision, Recall
+- True Negative Rate, True Positive Rate(Recall)
 - Confusion Matrix
 
 ## What We Learned
