@@ -27,12 +27,12 @@ By identifying high-risk orders early, platforms can take action to reduce cance
 - Set and Kurta are both high-volume and high-cancellation categories
 
 ## Machine Learning Models
-### Models Used:
+#### Models Used:
 - Logistic Regression (Baseline)
 - Random Forest & Random Forest(Balanced)
 - XGBoost
 
-### Evaluation Metrics:
+#### Evaluation Metrics:
 - Accuracy
 - True Negative Rate, True Positive Rate(Recall)
 - Confusion Matrix
