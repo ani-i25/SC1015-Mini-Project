@@ -19,6 +19,13 @@ By identifying high-risk orders early, platforms can take action to reduce cance
 - Encoded categorical variables numerically
 - Added readable category labels via Category_name
 
+## EDA
+- About 14.45% of orders are cancelled → class imbalance
+- Merchant-fulfilled orders are ~45% more likely to be cancelled
+- No promotion orders have a high cancellation rate (~36.7%)
+- Cancelled orders tend to be lower in value
+- Set and Kurta are both high-volume and high-cancellation categories
+
 ## Machine Learning Models
 ### Models Used:
 - Logistic Regression (Baseline)
@@ -30,7 +37,10 @@ By identifying high-risk orders early, platforms can take action to reduce cance
 - Precision, Recall
 - Confusion Matrix
 
-## Conclusion & What We Learned
+## Conclusion
+
+
+## What We Learned
 
 
 
