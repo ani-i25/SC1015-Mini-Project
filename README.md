@@ -37,13 +37,20 @@ By identifying high-risk orders early, platforms can take action to reduce cance
 - Precision, Recall
 - Confusion Matrix
 
-## Conclusion
-
-
 ## What We Learned
+- Logistic Regression is a good baseline — simple but effective.
+- Random Forest performed best overall, even without tuning.
+- XGBoost didn’t outperform — complexity ≠ better.
+- Accuracy alone isn’t enough — recall matters for imbalanced data.
+- Tuning (threshold + class weights) improves recall.
 
-
-
+## Conclusion & Recommendations
+- High order amount → fewer cancellations
+- Merchant fulfillment → more cancellations
+- Promotions help reduce cancellations slightly.
+- Using ML to flag high-risk orders early.
+- Improving merchant fulfillment speed.
+- Offering targeted promotions for risky categories.
 
 ## Contributors
 - @ani-i25 Gao Anni (N2402461C): Data cleaning, EDA, GitHub setup
